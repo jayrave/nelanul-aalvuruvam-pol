@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="jay.droid.googleimagesearch.ImageSearchActivity" >
+    
+    <item android:id="@+id/history"
+        android:title="@string/history"
+        android:icon="@drawable/history"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+</menu>

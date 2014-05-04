@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bing Image Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">Search</string>
+    <string name="enter_search_query">Enter search query</string>
+    <string name="history">History</string>
+    <string name="title_activity_single_big_image">Big Image</string>
+    <string name="load_more">Load More</string>
+    <string name="title_activity_history">History</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
